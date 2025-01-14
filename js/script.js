@@ -22,7 +22,7 @@ randomNumbers.forEach((number) => {
 
 
 // dichiara una variabile per il counter e inizializza a 30 secondi
-let counter = 2;
+let counter = 30;
 
 //seleziona l'elemento in cui inserire il counter
 const countdown = document.getElementById('countdown');
